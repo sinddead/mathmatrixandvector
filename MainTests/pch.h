@@ -1,3 +1,4 @@
+// Copyright 2026 Malakhov Roman
 //
 // pch.h
 //
